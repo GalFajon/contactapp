@@ -13,7 +13,7 @@
                 $_POST['nick'],
                 $_POST['fname'],
                 $_POST['lname'],
-                $_POST['country'],
+                $_POST['country']
             );
             $msg = 'Adding failed.';
         }
